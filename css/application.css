@@ -791,3 +791,7 @@ footer.main-footer {
   color: #aaa;
   border: solid 1px #eee;
   background: #eee; }
+
+strong {
+  font-size: 18px;
+}
