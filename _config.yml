@@ -4,8 +4,8 @@ header-img: img/home-bg.jpg
 email: theneedytoday@gmail.com
 description: "The Needy Today a home, in Sierra Leone, which is rented as an orphanage."
 baseurl: ""
-url: "http://theneedytoday.org"
-facebook_username:  tnt.sierraleone
+url: "http://jacobburenstam.com"
+facebook_username: tnt.sierraleone
 
 # Build settings
 markdown: kramdown
