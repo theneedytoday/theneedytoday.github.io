@@ -1,17 +1,15 @@
 # Site settings
-title: Clean Blog
+title: The Needy Today
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+email: theneedytoday@gmail.com
+description: "The Needy Today a home, in Sierra Leone, which is rented as an orphanage."
+baseurl: ""
+url: "http://theneedytoday.org"
+facebook_username:  tnt.sierraleone
 
 # Build settings
 markdown: kramdown
 highlighter: pygments
 permalink: pretty
-paginate: 5
+paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

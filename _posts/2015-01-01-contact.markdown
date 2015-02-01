@@ -1,0 +1,27 @@
+---
+layout:     post
+title:      "Contact"
+subtitle:   "Our contact details"
+date:       2015-01-01 00:00:01
+header-img: "img/home-bg.jpg"
+---
+
+
+## The Needy Today
+
+
+__Email:__
+
+[theneedytoday@gmail.com](mailto:theneedytoday@gmail.com)
+
+[theneedytoday@yahoo.com](mailto:theneedytoday@yahoo.com)
+
+__Tel:__
+
++232-78 30 81 46
+
++232-77 54 86 48
+
+__Address:__
+
+10 Alusine Kalla Drive, Magbenteh, Makeni, Northern Province, Sierra Leone
