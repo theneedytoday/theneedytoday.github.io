@@ -19,19 +19,19 @@
                     <a href="{{ site.baseurl }}/">Home</a>
                 </li> -->
                 <li>
-                    <a href="{% post_url 2015-01-01-beneficiaries %}">Beneficiaries</a>
+                    <a href="{% post_url 2015-01-01-beneficiaries | prepend: site.baseurl %}">Beneficiaries</a>
                 </li>
                 <li>
-                    <a href="{% post_url 2015-01-01-programs %}">Program</a>
+                    <a href="{% post_url 2015-01-01-programs | prepend: site.baseurl %}">Program</a>
                 </li>
                 <li>
-                    <a href="{% post_url 2015-01-01-faq %}">FAQ</a>
+                    <a href="{% post_url 2015-01-01-faq | prepend: site.baseurl %}">FAQ</a>
                 </li>
                 <li>
-                    <a href="{% post_url 2015-01-01-donate %}">Donate</a>
+                    <a href="{% post_url 2015-01-01-donate | prepend: site.baseurl %}">Donate</a>
                 </li>
                 <li>
-                    <a href="{% post_url 2015-01-01-about %}">About</a>
+                    <a href="{% post_url 2015-01-01-about | prepend: site.baseurl %}">About</a>
                 </li>
                 <!--
                 {% for page in site.pages %}{% if page.title %}
