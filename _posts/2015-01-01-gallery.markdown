@@ -6,6 +6,21 @@ date:       2015-01-01 00:00:00
 header-img: "img/home-bg.jpg"
 ---
 
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/1a.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/2a.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/3a.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/4a.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/5a.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/6a.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/7a.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/8a.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/9a.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/10a.JPG" alt="">
+
 <img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/11.jpg" alt="">
 <img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/12.png" alt="">
 <img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/13.jpg" alt="">
