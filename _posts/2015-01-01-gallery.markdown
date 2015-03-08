@@ -1,0 +1,132 @@
+---
+layout:     post
+title:      "Gallery"
+subtitle:   "Photos from The Needy Today"
+date:       2015-01-01 00:00:00
+header-img: "img/home-bg.jpg"
+---
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/1a.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/2a.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/3a.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/4a.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/5a.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/6a.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/7a.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/8a.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/9a.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/10a.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/11a.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/12a.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/13a.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/11.jpg" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/12.png" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/13.jpg" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/21.jpg" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/22.jpg" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/23.jpg" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/31.jpg" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/32.jpg" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/33.jpg" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/41.jpg" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/42.jpg" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/43.jpg" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/slide2.jpg" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/slide3.jpg" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/1.jpg" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/10s.jpg" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/11s.jpg" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/12s.jpg" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/13s.jpg" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/14s.jpg" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/15s.jpg" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/16.jpg" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/2.jpg" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/4.jpg" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/5.jpg" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/51.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/52.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/53.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/54.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/55.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/56.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/57.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/58.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/59.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/60.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/61.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/62.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/7s.jpg" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/8s.jpg" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/9s.jpg" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18825.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18826.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18827.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18828.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18829.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18830.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18831.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18832.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18833.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18834.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18835.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18836.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18837.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18838.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18839.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18841.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18842.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18844.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18845.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18846.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18848.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18849.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18850.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18851.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18852.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18853.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18854.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18855.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18856.JPG" alt="">
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18857.JPG" alt="">
+
+<img style="display:inline-block;max-width: 350px" src="{{ site.baseurl }}/img/gallery/SDC18858.JPG" alt="">

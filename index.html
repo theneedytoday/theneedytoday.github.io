@@ -1,0 +1,46 @@
+---
+layout: page
+description: "The Needy Today a place, in Makeni Sierra Leone for needy and deprived people."
+---
+
+{% for post in paginator.posts %}
+<div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h2 class="post-title">            {{ post.title }}
+        </h2>
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">
+            {{ post.subtitle }}
+        </h3>
+        {% endif %}
+    </a>
+    <!-- <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p> -->
+</div>
+<hr>
+{% endfor %}
+
+<!-- Pager -->
+{% if paginator.total_pages > 1 %}
+<ul class="pager">
+    {% if paginator.previous_page %}
+    <li class="previous">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+    </li>
+    {% endif %}
+    {% if paginator.next_page %}
+    <li class="next">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+    </li>
+    {% endif %}
+</ul>
+{% endif %}
+
+<div class="post-preview">
+    <a href="#videos"><h2 class="post-title">Videos</h2></a>
+    <div id="videos">
+        <iframe src="//player.vimeo.com/video/77383435" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/77383435">Docu Wees de foto - Sierra Leone 2013</a> from <a href="http://vimeo.com/rtworks">rtworks</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+        <iframe width="560" height="315" src="http://www.youtube.com/embed/xQWwqSUjLT0?rel=0" frameborder="0" allowfullscreen></iframe>
+    </div>
+</div>
+<hr>
