@@ -9,26 +9,30 @@ header-img: "img/home-bg.jpg"
 Presently we work on the following programs:
 
 * Child protection(foster care and adoption)
-* Youth and women empower through education/skills training development, entrepreneurship training, micro finance and agriculture.
+* Women and Youth Economic Empowerment through education/skills training development, entrepreneurship training, micro finance and agriculture.
 * Water and Sanitation measures.
 * Female Genital Mutilation.
 * Programs for foster care and adoption.
 * Support to disabled people through education/skills training development, micro financing to enhance entrepreneurship.
 * Volunteer services
 * Nutrition
-* Support to Ebola affected people
+* End girl child marriages 
 
-__With these programs we offer facilities like supply of food and wears, foster care and adoption, micro financing, provision of education and skills training tuition fees and materials, provision of proper health care and hygiene facilities and psychosocial counseling.__
+__With these programs we offer facilities like supply of food and clothing, foster care and adoption, micro financing, provision of education and skills training tuition fees and materials, provision of proper health care and hygiene facilities and psychosocial counseling.__
 
 ## Child sponsorship
 
-There are many children in Sierra Leone who, through many factors, have been orphaned, extremely deprived, abandoned, or separated from their families. The past protracted civil war further disfranchised many people and robbed children of their homes and family resources. Coupled with other disadvantaged situations, many children lack proper food, clothing, shelter and fees for education and proper health care. For these children, absolute assistance would be beneficial in order to ensure that the child can be educated and grow to become a responsible and self-sufficient adult.
+There are many children in Sierra Leone who, through many factors, have been orphaned, extremely deprived, abandoned, or separated from their families. The past protracted civil war further disfranchised many people and robbed children of their homes and family resources. Coupled with other disadvantaged situations, many children lack proper food, clothing, shelter and composite fees for other school materials and proper health care. For these children, absolute assistance would be beneficial in order to ensure that the child can be educated and grow to become a responsible and self-sufficient adult.
 
-As one of our core mandates and a center of concern, we seek to make available related opportunities to these extremely deprived children in helping them achieve necessities of real life situation. Over the years we have been able to provide support to 1,815 children in 98 communities in three districts (Bombali, Port Loko and Koinadugu) within northern Sierra Leone. Presently we are providing support to 621 needy children in these districts. Our support to these deprived categories of children have ranged from psychosocial counseling, foster care and adoption, education, health care, quality care support including food and wears and also support to some care givers who look over them.
+As one of our core mandates and a center of concern, we seek to make available related opportunities to these extremely deprived children in helping them achieve necessities of real life situation. 
+
+Communities within our operational areas (Bombali, Karene, Port Loko, Kambia, and Koinadugu) are the poorest communities in Sierra Leone. Some villages within these operational areas lack educational facilities. Children within these communities have to walk nine or more miles to access school. Entirely, some villages within these five districts are remote and they lack basic services necessary for human survival. Women in these villages are poor and their children are poor too. 
+
+Over the years we have been able to provide support to 10,924 children in 250 communities in five districts (Bombali, Karene, Port Loko, Kambia, and Koinadugu) within Northern Sierra Leone. Presently we are providing support to 1,736 needy children in these districts. Our support to these deprived categories of children have ranged from school support, psychosocial counseling, foster care, health care, quality care support including food and wears and also support to some care givers who look over them.
 
 Some of the children we support are opened to foster care support and adoption. Over the years we have realized considerable support from adoptive parents towards the welfare of some of these children. Their roles have been of great impact in helping these children be able to achieve a better future. 
 
-Therefore with available resources, we hope to continually provide opportunities for these children that would make them self-reliant and sustainable. 
+Therefore with available resources, we hope to continually provide opportunities for these children that would make available Safe and secure environment, Educated and confidence children.
 
 <div style="text-align: center">
   <img style="display:inline-block" src="{{ site.baseurl }}/img/11.jpg" alt="">
@@ -38,28 +42,36 @@ Therefore with available resources, we hope to continually provide opportunities
 
 ## Foster Care and Adoption
 
-Sierra Leone is faced with many critical situations regarding the well being of children, especially those in completely deplorable conditions. The Needy Today Sierra Leone believes that the overriding principle in child welfare policy is in the best interest of the child. The love, care and affection that a child receives in their families are more intense than elsewhere. Children, whiles detached off their biological families, nevertheless are  still in need of a permanent family in which to grow. If an extended family system is not available to them, the next priority becomes care by non-relatives in the form of foster care and adoption. In this case, adoption is one avenue that can allow a less fortunate child to settle into a second family with a structure that is also vitally needed for a child’s health and well being. It is the belief of The Needy Today that institutional care should only be used as a last resort for extremely deprived children.
+Sierra Leone is faced with many critical situations regarding the well being of children, especially those in completely deplorable conditions. The Needy Today believes that the overriding principle in child welfare policy is in the best interest of the child. The love, care and protection that a child receives in their families are more intense than elsewhere. Children, whiles detached off their biological families, nevertheless are still in need of a permanent family in which to grow. If an extended family system is not available to them, the next priority becomes care by non-relatives in the form of foster care and adoption. In this case, adoption is one avenue that can allow a less fortunate child to settle into a second family with a structure that is also vitally needed for a child’s health and well being. It is the belief of The Needy Today that institutional care should only be used as a last resort for extremely deprived children.
 
-On this basis, the goal of The Needy Today Sierra Leone is to work with the Sierra Leonean government, Legal offices, Embassies, NGOs, INGOs, Missions and Agencies for the welfare of orphaned infants or children who are in immediate need of intensive living care, and who need a long-term plan involving permanent placement in an adopted family for their best future. The Needy Today Sierra Leone considers long-term institutional care as last resort and prefers to assist these infants/children through temporary, transitional care whiles at the same time developing a plan for a permanent and loving family environment in which they will grow and flourish or place them in orphanages. Infants or children accepted into care are being placed in temporary foster homes and given the financial support necessary to provide all the necessary food, clothing, shelter, medical care, love and nurture necessary to ensure their survival and growth. Efforts will be focused on promoting national and international adoption for those children who will best be helped through adoption.
+On this basis, the goal of The Needy Today is to work with the Sierra Leonean government, Legal offices, Embassies, NGOs, INGOs, Missions and Agencies for the welfare of orphaned infants or children who are in immediate need of intensive living care, and who need a long-term plan involving permanent placement in an adopted family for their best future. The Needy Today  considers long-term institutional care as last resort and prefers to assist these infants/children through temporary, transitional care whiles at the same time developing a plan for a permanent and loving family environment in which they will grow and flourish or place them in orphanages. Infants or children accepted into care are being placed in temporary foster homes and given the financial support necessary to provide all the necessary food, clothing, shelter, medical care, love and nurture necessary to ensure their survival and growth. Efforts will be focused on promoting national and international adoption for those children who will best be helped through adoption.
 
 ## Water and Sanitation
 
-Sierra Leone faced serious humanitarian crisis during the ten years of civil war, where lives, personal properties and social infrastructures like health facilities, schools and water and sanitation facilities were discriminately destroyed. Water and sanitation facilities within the country are extremely poor and are grossly inadequate for a living status of a larger population. The estimation of Sierra Leone population access to safe water is less than 34% and to sanitation less than 12%. Sierra Leone is still beset by infectious diseases including tetanus, typhoid, diarrhea, cholera and the worst of it all Ebola that that has led to numerous deaths. This inadequacy and lack of proper care has posed dwindling impacts among vulnerable people.
+Sierra Leone faced serious humanitarian crisis during the eleven years of civil war, where lives, personal properties and social infrastructures like health facilities, schools and water and sanitation facilities were discriminately destroyed. Water and sanitation facilities within the country are extremely poor and are grossly inadequate for a living status of a larger population. The estimation of Sierra Leone population access to safe water is less than 34% and to sanitation less than __12%__. Sierra Leone is still beset by infectious diseases including tetanus, typhoid, diarrhea, cholera and the worst of it all Ebola that that has led to numerous deaths. This inadequacy and lack of proper care has posed dwindling impacts among vulnerable people.
 
 Our organization is very much concerned about this poor living condition and intends to foster low cost technologies to make available water and environmental sanitation facilities to the population. Increased community participation in program activities will be promoted where community members will be trained to manage their facilities. Hundreds of wells and hand pumps constructed 5 - 12 years ago are damaged and needs repairs instead of constructing new ones. Chlorination activities of both non-traditional and traditional water sources will be vigorously pursued with the training of well owners and Blue Flag Volunteers to prevent outbreak of diarrhea diseases.
 
-In an effort in achieving the above measures, The Needy Today is ready to work in cooperation with NGOs, networks, foundations and volunteers to increase access to safe drinking water supply in selected communities, schools and Public Health Units in the rural poor unnoticed; provide access to proper hygiene and sanitation facilities within communities in the selected environments; promote positive hygiene practices to enhance healthy lifestyles especially in institutions and poor health underdeveloped communities; and prevent the incidence of water burn and transmitted diseases.
+In an effort in achieving the above measures, The Needy Today is ready to work in cooperation with other NGOs, networks, foundations and volunteers to increase access to safe drinking water supply in selected communities, schools and Public Health Units in the rural poor unnoticed; provide access to proper hygiene and sanitation facilities within communities in the selected environments; promote positive hygiene practices to enhance healthy lifestyles especially in institutions and poor health underdeveloped communities; and prevent the incidence of water burn and transmitted diseases.
 
 For us to achieve and continue to implement proper water and sanitation measures, we ought to be attaining the following: Construction materials for wells, submersible pumps, generators and pumps with accessories, equipment and machinery; GI and PVC pipes, fittings and accessories; Manufacturing of low-cost hand pumps for communities; Capacity Building and training of  hand pump mechanics, School teachers, Youths, Community members etc; Construction of low cost latrines; Social Mobilization; Chlorine powder, Water Quality Monitoring System and Chlorination; Develop community framework, undertake comprehensive assessment and; Technical assistance and consultancies.
 
+<div style="text-align: center">
+  <img style="display:inline-block" src="{{ site.baseurl }}/img/2022/p0.jpeg" alt="">
+</div>
 
 ### Support to disabled 
 
-Providing support to disabled is also one of our organization’s quests. So far we have affected the lives of 550 disabled people within the three districts we operate in Northern Sierra Leone (Bombali, Port Loko and Koinadugu). Our prime motive is to enable them overcome the challenges of life more effectively. Education/skills training, micro-financing support, food supply, handicapped support materials (crutch, wheel chairs, hand and leg braces etc), wears are all aspects of supports we render to these deprived and disabled category of persons. We really hope to extend our support to many more that are still in dire need, but because of the limited resources, presently we are supporting just 162 of them. 
+Providing support to disabled is also one of our organization’s quests. So far we have affected the lives of 980 disabled people within the five districts we operate in Northern Sierra Leone (Bombali, Karene, Port Loko, Kambia, and Koinadugu). Our prime motive is to enable them overcome the challenges of life more effectively. Education/skills training, micro-financing support, food supply, handicapped support materials (crutch, wheel chairs, hand and leg braces etc), wears are all aspects of supports we render to these deprived and disabled category of persons. We really hope to extend our support to many more that are still in dire need, but because of the limited resources, presently we are supporting just 592 of them.
+
+<div style="text-align: center">
+  <img style="display:inline-block" src="{{ site.baseurl }}/img/2022/p6.jpeg" alt="">
+  <img style="display:inline-block" src="{{ site.baseurl }}/img/2022/p5.jpeg" alt="">
+</div>
 
 ### Youth Empowerment
 
-Increasing life’s demand with better options for deprived youths is also embedded in our organization’s effort in seeking conducive opportunities for less privileged persons. Because they carry a huge percentage of the world’s population (70%), our organization strive to cater for redressive measures in providing life changing solutions to youths that are in dire need of help owing to this fact, our effort has been tremendous so far in positively impacting the lives of 962 deprived youths in 3 district within Northern Province of Sierra Leone (Bombali, Port Loko and Koinadugu). Presently because of restricted resources, we are supporting 135 of them. There are many more deprived youths in our communities today and their problems are incremental. Thus, we hope to affect the conditions of many more in diverse communities once we tap into available opportunities. 
+Increasing life’s demand with better options for deprived youths is also embedded in our organization’s effort in seeking conducive opportunities for less privileged persons. Because they carry a huge percentage of the world’s population (70%), our organization strive to cater for redressive measures in providing life changing solutions to youths that are in dire need of help owing to this fact, our effort has been tremendous so far in positively impacting the lives of 1,962 deprived youths in 5 district within Northern Province of Sierra Leone (Bombali, Karene, Port Loko, Kambia, and Koinadugu). Presently because of restricted resources, we are supporting 560 of them. There are many more deprived youths in our communities today and their problems are incremental. Thus, we hope to affect the conditions of many more in diverse communities once we tap into available opportunities. 
 
 Education/skills training, agricultural supports, support to start small business are all strategic measures we have employed in making sure that we fully equipped these youths remarkably. 
 
@@ -73,6 +85,7 @@ Furthermore, we would extend to other communities once we tap into other availab
 
 
 ## Nutrition
+
 The widespread nature of malnutrition in the whole country is a manifestation of prolonged deprivations in access to adequate food, health, safe water and sanitation facilities, and inability of an estimated 80% of households, particularly women, to provide appropriate care to their children within the context of a complex emergency. While the health, water and sanitation sectors continue to grapple with high incidences of diarrhea, measles and acute respiratory infections which contribute to malnutrition; the food situation has remained precarious. Most households directly or indirectly affected by the war have been exposed to the risk of inability to access quality food through difficult means. The minimum wage of those who have been lucky to retain their jobs, meets only 36% of the staple food bills, and most farmers have had to consume their seed stock.
 
 Anaemia in pregnancy is a problem for women. Many nursing mothers are experiencing lactation failure. The Needy Today will work with partners to set up a wet feeding centre for malnourished children and provide such feeds at strategic centres in communities lacking food supplies; introduce gardening, food processing and income generation activities in communities on household food security promotion efforts, reduce the prevalence of moderate and severe malnutrition in children in high-risk communities through community based nutrition education. The Needy Today’s expected outputs are the reduction of risks of mortality from diarrhea, measles and acute respiratory infections through Vitamin A supplementation, risks of malnutrition and improve nutrition status of lactating and pregnant women and children. 
@@ -88,38 +101,39 @@ This still remains an integral part of survival in our country as still not many
 * Micro-credits to women including female youths groups
 * Community Animation/Social Mobilization
 * Monitoring and Evaluation
-* Logistics and Project Support
+* Logistics
+* Project Support
 
 ## Volunteer Service
 
 We look for volunteers and interns with an open mind, a willingness to learn, and adaptability. We always provide basic information support, detailed program guide and cultural education. This ensures the best possible experience for both you and your host community. The volunteers we have worked with (local and international) really proved well and contributed meaningfully to our course with other extra community duties.
 
-There is a dire need to improve social and living conditions in the geographic regions in Sierra Leone where we work. You will be meaningfully engaged in issues including HIV/AIDS, Education, Social Work, Health, Children’s Rights, solutions to impede the practice of Female Genital Mutilation (FGM,) Gender Equality and the Environment. As we facilitate your area of placement with our organization, you will have a direct positive impact on the community you are working with. Participants donate many hours of valuable work. In addition, the cultural exchange that results from a placement enables the sharing of unique ideas and ways of life. By giving your time, energy, and talents, you will make major contributions to the communities in which you work.
+There is a dire need to improve social and living conditions in the geographic regions in Sierra Leone where we work. You will be meaningfully engaged in issues including HIV/AIDS, Education, Social Work, Health, Children’s Rights, solutions to impede the practice of Female Genital Mutilation (FGM,), End child marriages, Gender Equality and the Environment. As we facilitate your area of placement with our organization, you will have a direct positive impact on the community you are working with. Participants donate many hours of valuable work. In addition, the cultural exchange that results from a placement enables the sharing of unique ideas and ways of life. By giving your time, energy, and talents, you will make major contributions to the communities in which you work.
 
 ## Campaign against female genital mutilation
 
-Our organization is a party to ending this fruitless and harmful exercise. As widely evaluated, this practice has got a lot of side effects and does not yield any form of dividend so far. Inasmuch as we are bent on providing viable solutions for deprived community members we want them to be healthy and be free of every harm. Thus, we have edged proactive campaigns to frustrate efforts relating female genital mutilation practices within our operational areas.  The impact has been great. On a thrill, we have embarked on community mobilization and one on one educative programs that would better inform people the reason why they shouldn’t participate.
+Our organization is a party to ending this fruitless and harmful exercise. As widely evaluated, this practice has got a lot of side effects and does not yield any form of dividend so far. In as much as we are bent on providing viable solutions for deprived community members we want them to be healthy and be free of every harm. Thus, we have edged proactive campaigns to frustrate efforts relating female genital mutilation practices within our operational areas.  The impact has been great. On a thrill, we have embarked on community mobilization and one on one educative programs that would better inform people the reason why they shouldn’t participate.
 
 Ideally, to further enhance this campaign and access more communities with perfect informative programs, we would need resources that would enable us sensitize more people in meetings, radio programs and rallies holding placards to emphasize.
 
-So far we have been to run FGM campaigns in all 98 communities we have worked.
+So far we have been to run FGM campaigns in all communities we have worked.
 
-## Women empowerment
+## Women Economic Empowerment
 
-Women’s empowerment is a core consideration of our organizational target. Our main focus is on providing deprived women with the necessary support worthy of face-lifting their shattered conditions. We realize that mostly once they become ineffective in generating incomes, there is possibility for other members of the family to suffer as well more especially the children. A lot of factors have led to increase in poor women’s condition ranging from single parenting, lack of education/skill training and lack of financial support. Over the years we have supported 413 deprived women and at the moment we are supporting140 of them with different programs holding from education /skills training, microfinance, agriculture and entrepreneurship trainings.
+Women’s economic empowerment is a core consideration of our organizational target. Our main focus is on providing deprived women with the necessary support worthy of face-lifting their shattered conditions. We realize that mostly once they become ineffective in generating incomes, there is possibility for other members of the family to suffer as well more especially the children. A lot of factors have led to increase in poor women’s condition ranging from single parenting, lack of education/skill training and lack of financial support. Over the years we have supported 5890 deprived women and at the moment we are supporting 3500 of them with different programs holding from education /skills training, microfinance, agriculture and entrepreneurship trainings.
 
-Obviously, there are many more deprived women in need of support but with the limited resources we just can’t do enough. But we still remain passionate though, and once our resource base increases we hope to affect the lives of many more in need of help.
+Obviously, there are many more deprived women in need of support but with the limited resources we just can’t do enough. But we still remain passionate though, and once our resource base increases we hope to affect the lives of many more in need of help. 
 
-## Support to Ebola affected persons
+<div style="text-align: center">
+  <img style="display:inline-block" src="{{ site.baseurl }}/img/2022/p4.jpeg" alt="">
+  <img style="display:inline-block" src="{{ site.baseurl }}/img/2022/p3.jpeg" alt="">
+  <img style="display:inline-block" src="{{ site.baseurl }}/img/2022/p2.jpeg" alt="">
+</div>
 
-Our organization has since joined the fight against Ebola. It is the worst outbreak ever in the history of our country. This impostor has killed many and is viciously collapsing and fastly eaten into the fabrics of the country. It is a life deterring effect with running activities put on hold by national order. Life is a giant task to carry with the scourge still affecting people by the day. Over 4000 children have become orphans through the disease which has ultimately increased the number of extremely needy children nationwide. Many parents have been made single too. Some habitats are offensively torn apart with just few people remaining. 
+## End Early and Forceful Marriage for Girls 
 
-Many people have been affected directly or indirectly by the epidemic and are experiencing life challenging circumstances riding from psychosocial counseling, food, health and sanitation and wears.
+In remote corners of Sierra Leone, men caught glimpse of girls under the age of 18 years. Families are poor and always succumb to the financial pressure received from the various suitors for their girl-child. The financial pressure on families sways them away and forgets the importance of education for the girl-child. Families think only about their poor conditions and their needs. Marriages of underage girls are on the rise as the Coronavirus Pandemic deepens poverty around the world more especially in Sierra Leone, which has threatened the hard work of various organisations including The Needy Today.
 
-Backed up with government interventions, many organizations like us in similar course are on the ground responding to this emergency issue, but yet more still needs to be done. 
+According to the United Nations estimates, hardships resulting from COVID-19 will drive 13 million more girls to marry before the age of 18. In most cases, needy parents receive a dowry for their daughters, a bit of land or livestock that can provide income, or cash and a promise to take over financial responsibility for the young bride.
 
-So far we have been able to provide psychosocial counseling, basic food supply and sanitizers to 702 Ebola affected persons in 32 Ebola hot-spot communities in 3 districts within northern Sierra Leone (Bombali,Port Loko and Koinadugu).
-
-There are many more to attend to but for now we have very limited resources. There is every need that people affected by Ebola must be given prompt attention with a preferred package. 
-Presently, we are looking out for funds that will help us address present and post Ebola problems.
-
+The Needy Today is working hard to create more awareness about the need for girls to stay longer in schools rather than early marriage. We need support to continue the fight against early and forceful marriages. 
