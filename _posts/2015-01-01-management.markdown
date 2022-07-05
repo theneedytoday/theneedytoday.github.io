@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      "Management"
+subtitle:   "The operations of TNT is undertaken by 22 staff"
 date:       2015-01-01 00:00:04
 header-img: "img/home-bg.jpg"
 ---
