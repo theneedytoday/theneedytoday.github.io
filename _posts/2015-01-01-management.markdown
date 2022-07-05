@@ -1,16 +1,19 @@
 ---
 layout:     post
 title:      "Management"
-subtitle:   "The operations of TNT is undertaken by 4 different categories of people within each with specific roles to perform at different levels"
 date:       2015-01-01 00:00:04
 header-img: "img/home-bg.jpg"
 ---
 
-The operations of TNT is undertaken by 4 different categories of people within each with specific roles to perform at different levels.
+The organogram below shows the structure of the organisation.  
 
 ### Permanent Staff
 
-Presently this organization employs the service of 22 staff as shown below.
+Presently this organization employs the service of __22 staff__ as shown below:
+
+<div style="text-align: center">
+  <img style="display:inline-block" src="{{ site.baseurl }}/img/2022/management.png" alt="">
+</div>
 
 ### Casual Staff
 
